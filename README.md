@@ -11,3 +11,7 @@ I have tweaked the code alot from the original code itself, mostly on the place 
 
 Goal of this project:
 The goal of this model is to train a chatbot that can remembers chat history and stores it in some form of states. The model will then be able to reply accurately based on current query and history states.
+
+License
+---
+This project is under the GNU Public License, Version 3.
